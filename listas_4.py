@@ -1,0 +1,10 @@
+lista = [1,2,3,4,5]
+print(lista.pop())
+lista.append("se pueden  agregar cadenas!")
+print(lista)
+lista.insert(1,"agregando esta cadena a la posicion 1")
+print(lista)
+listacopia = lista.copy()
+print(listacopia)
+listacopia.clear()
+print(listacopia)
