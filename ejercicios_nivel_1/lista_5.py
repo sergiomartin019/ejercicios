@@ -1,3 +1,4 @@
+
 import string
 abecedario = []
 abecedario_multiplos = []
