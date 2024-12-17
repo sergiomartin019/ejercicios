@@ -1,9 +1,11 @@
 palabra = input("introduce una palabra: ").lower()
+
 contador_a = 0
 contador_e = 0
 contador_i = 0
 contador_o = 0
 contador_u = 0
+
 for chr in palabra:
     if chr == "a":
         contador_a = contador_a + 1
